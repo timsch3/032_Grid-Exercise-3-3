@@ -1,6 +1,6 @@
-# 032_Grid-Exercise-3-3
+# Super7000 News
 
-A newspaper made with mainly CSS grid and some flexbox: https://timsch3.github.io/032_Grid-Exercise-3-3/
+A newspaper made with mainly CSS grid and some flexbox: https://timsch3.github.io/Super7000News/
 
 The `template.png` was my assignment.
 
